@@ -1,0 +1,1 @@
+# ionic2-external-link-directive
